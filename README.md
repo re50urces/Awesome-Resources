@@ -9,3 +9,17 @@
 - [UI8](UI Design Resources, UI Kits, Wireframes, Icons and More - UI8)
 - [UI Goodies](https://uigoodies.com/)
 - [Design at Meta](https://design.facebook.com/toolsandresources/)
+- [Landingfolio](https://www.landingfolio.com/)
+- [see saw](https://www.seesaw.website/) `The very best web design inspiration from all corners of the internet. Hand-picked and updated daily.`
+- [godly](https://godly.website/) `Astronomically good web design inspiration from all over the internet`
+- [One Page Love](https://onepagelove.com/) `One Page Love - One Page Website Inspiration and Templates`
+- [Gomila](https://www.gomila.co/) `A new home for creatives`
+- [Dark Mode Design](https://www.darkmodedesign.com/)
+- [layers](https://layers.to/explore/recent)
+- [recent.design](https://recent.design/)
+- [curated.design](https://www.curated.design/) `Web design inspiration catalog`
+- [landbook](https://land-book.com/) `website design inspiration gallery`
+- [refero.design](https://refero.design/) `Explore real-world designs from the best products`
+- [Mobbin](https://mobbin.com/)
+- [saaslandingpage](https://saaslandingpage.com/) `SaaS landing page examples`
+- [Saas frame](https://www.saasframe.io/) `where saas builder find inspiration`
