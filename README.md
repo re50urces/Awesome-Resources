@@ -1,5 +1,11 @@
 # Awesome-Resources
 
+- [Apple Design Resources](https://developer.apple.com/design/resources/) `Design apps quickly and accurately by using Sketch, Photoshop, XD templates, guides, and other resources.`
+- [Material Design](https://m3.material.io/) `Material 3 is the latest version of Google’s open-source design system. Design and build beautiful, usable products with Material 3.`
+- [Microsoft Design Resources](https://www.microsoft.design/resources) `Whether you want to practice new skills, develop new concepts, or create prototypes, these toolkits are your place to start.`
+- [Dribbble Design Resources](https://dribbble.com/resources) `Explore a collection of free resources to grow your design career.`
+- [invision design resources](https://www.invisionapp.com/free-resources) `Browse our library of free, high-quality UI kits, icon packs, and mockups.`
+- [airbnb design projects](https://airbnb.design/our-projects/) `Discover our latest releases and download our community resources`
 - [Kreative tools](https://kreative.tools/)
 - [Toools Design](https://www.toools.design/)
 - [Toolkit.design](https://toolkit.design/)
@@ -23,3 +29,8 @@
 - [Mobbin](https://mobbin.com/)
 - [saaslandingpage](https://saaslandingpage.com/) `SaaS landing page examples`
 - [Saas frame](https://www.saasframe.io/) `where saas builder find inspiration`
+- [60fps.design](https://www.60fps.design/) `Your ultimate design inspiration hub, featuring everything from top-notch product ads, fonts, icons, and all things design magic.`
+- [saas pricing explorer](https://explorer.hyperline.co/) `Get inspired by top SaaS businesses to challenge your pricing model. Explore, analyze and track 1000+ pricing pages, for free!`
+- [MagentaA11y](https://www.magentaa11y.com/)
+- [Product Hunt](https://www.producthunt.com/) `The best new products in tech.`
+- [Dev Hunt](https://devhunt.org/) `The best new Dev Tools every day.`
