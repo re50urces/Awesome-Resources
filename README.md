@@ -34,3 +34,4 @@
 - [MagentaA11y](https://www.magentaa11y.com/)
 - [Product Hunt](https://www.producthunt.com/) `The best new products in tech.`
 - [Dev Hunt](https://devhunt.org/) `The best new Dev Tools every day.`
+- [patterns](https://www.patterns.dev/) `Patterns.dev is a free online resource design, render, and performance patterns for building powerful web apps with vanilla JavaScript or modern frameworks.`
