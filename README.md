@@ -5,7 +5,9 @@
 - [Microsoft Design Resources](https://www.microsoft.design/resources) `Whether you want to practice new skills, develop new concepts, or create prototypes, these toolkits are your place to start.`
 - [Dribbble Design Resources](https://dribbble.com/resources) `Explore a collection of free resources to grow your design career.`
 - [invision design resources](https://www.invisionapp.com/free-resources) `Browse our library of free, high-quality UI kits, icon packs, and mockups.`
+- [Branding Style Guides](https://brandingstyleguides.com/) `the branding guidelines archive`
 - [airbnb design projects](https://airbnb.design/our-projects/) `Discover our latest releases and download our community resources`
+- [google brand resource center](https://about.google/brand-resource-center/) `Whether you’re a small business owner or a filmmaker, a software developer or a teacher, we’ll help you learn when and how you can use our logo, product icons, and other brand elements in your work.`
 - [Kreative tools](https://kreative.tools/)
 - [Toools Design](https://www.toools.design/)
 - [Toolkit.design](https://toolkit.design/)
@@ -35,3 +37,11 @@
 - [Product Hunt](https://www.producthunt.com/) `The best new products in tech.`
 - [Dev Hunt](https://devhunt.org/) `The best new Dev Tools every day.`
 - [patterns](https://www.patterns.dev/) `Patterns.dev is a free online resource design, render, and performance patterns for building powerful web apps with vanilla JavaScript or modern frameworks.`
+- [storefront.design](https://www.storefront.design/) `We curate the best digital storefronts on the internet.`
+- [Laws of UX](https://lawsofux.com/) `Laws of UX is a collection of best practices that designers can consider when building user interfaces.`
+- [logggos](https://www.logggos.club/) `Discover inspiring logos sorted by industries, themes, typography style, branding color and more.`
+- [Guide to User Research - UXR](http://guidetouxr.com/) `A curated collection of 250+ resources & tools dedicated to user research,  that will help you incorporate it into your design practice.`
+- [Design Principles](https://principles.design/) `An open source collection of Design Principles and methods.`
+- [Design Systems](https://www.designsystems.com/) `A design systems publication by Figma`
+- [OGimage.gallery](https://www.ogimage.gallery/) `OGimage.gallery | The finest hand-picked OG Images ✨`
+- [Rebrand](https://www.rebrand.gallery/) `Explore the best new design systems, visual identity introductions and rebrand videos.`
