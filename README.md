@@ -45,3 +45,9 @@
 - [Design Systems](https://www.designsystems.com/) `A design systems publication by Figma`
 - [OGimage.gallery](https://www.ogimage.gallery/) `OGimage.gallery | The finest hand-picked OG Images ✨`
 - [Rebrand](https://www.rebrand.gallery/) `Explore the best new design systems, visual identity introductions and rebrand videos.`
+- [useHooks](https://usehooks.com/) `A collection of modern, server-safe React hooks – from the ui.dev team`
+- [JSter](https://jster.net/) `JSter is a community-driven catalog of the most useful JavaScript libraries. Find the right tool for a work and do it effectively.`
+- [DevDocs](https://devdocs.io/) `DevDocs combines multiple API documentations in a fast, organized, and searchable interface.`
+- [Spectrum, Adobe's design system](https://spectrum.adobe.com/) `Spectrum provides components and tools to help product teams work more efficiently, and to make Adobe’s applications more cohesive.`
+- [a-fresh](https://a-fresh.website/) `a-fresh | website design inspiration library`
+- [Pafolios](https://pafolios.com/) `Best design portfolio examples and case studies for Product, UI/UX, Creative Designers.`
