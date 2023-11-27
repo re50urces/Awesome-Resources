@@ -8,6 +8,8 @@
 - [Branding Style Guides](https://brandingstyleguides.com/) `the branding guidelines archive`
 - [airbnb design projects](https://airbnb.design/our-projects/) `Discover our latest releases and download our community resources`
 - [google brand resource center](https://about.google/brand-resource-center/) `Whether you’re a small business owner or a filmmaker, a software developer or a teacher, we’ll help you learn when and how you can use our logo, product icons, and other brand elements in your work.`
+- [MDN Web Docs](https://developer.mozilla.org/en-US/) `Resources for Developers, by Developers_`
+- [web.dev](https://web.dev/) `Guidance to build modern web experiences that work on any browser.`
 - [Kreative tools](https://kreative.tools/)
 - [Toools Design](https://www.toools.design/)
 - [Toolkit.design](https://toolkit.design/)
@@ -51,3 +53,18 @@
 - [Spectrum, Adobe's design system](https://spectrum.adobe.com/) `Spectrum provides components and tools to help product teams work more efficiently, and to make Adobe’s applications more cohesive.`
 - [a-fresh](https://a-fresh.website/) `a-fresh | website design inspiration library`
 - [Pafolios](https://pafolios.com/) `Best design portfolio examples and case studies for Product, UI/UX, Creative Designers.`
+- [No Code Founders](https://nocodefounders.com/tools) `Build an online business with no code`
+- [What is Open Source?](https://opensource.dev/)
+- [Noted](https://noted.lol/) `Self Hosted App and Product Reviews`
+- [Awwesome](https://awweso.me/?ref=Awe50me) and [Awesome-Selfhosted](https://awesome-selfhosted.net/) `A list of Free Software network services and web applications which can be hosted on your own servers`
+- [Prismic Blog](https://prismic.io/blog)
+- [Design Good Practices](https://goodpractices.design/) `Guidelines to naming conventions, components structure and document organization.`
+- [Growth.Design case studies](https://growth.design/case-studies) `UX Case studies to improve your product skills`
+- [Growth.Design Psychology](https://growth.design/psychology) `The physhology of Design: 106 cognitive biases & principles that affect your UX`
+- [Humane by Design](https://humanebydesign.com/) `Guidance for designing ethically humane digital products and services through patterns focused on user well-being.`
+- [UX Challenges](https://uxtools.co/challenges/) `UX Design Challenges | UX Tools`
+- [the component gallery](https://component.gallery/) `Designed to be a reference for anyone building component-based user interfaces, The Component Gallery is an up-to-date repository of interface components based on examples from the world of design systems.`
+- [Copy Book](https://copybook.me/) `Copy book is a collection of commonly used texts.`
+- [saferules by anthony hobday](https://anthonyhobday.com/sideprojects/saferules/) `Visual design rules you can safaly follow every time`
+- [UI Guideline](https://www.uiguideline.com/components) `The definitive guide to standardize the design/code of the UI Components based on the 39 most popular Reference Systems.`
+- [see saw](https://www.seesaw.website/) `The best web design inspiration`
