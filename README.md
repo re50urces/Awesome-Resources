@@ -68,3 +68,5 @@
 - [saferules by anthony hobday](https://anthonyhobday.com/sideprojects/saferules/) `Visual design rules you can safaly follow every time`
 - [UI Guideline](https://www.uiguideline.com/components) `The definitive guide to standardize the design/code of the UI Components based on the 39 most popular Reference Systems.`
 - [see saw](https://www.seesaw.website/) `The best web design inspiration`
+- [UIHUT](https://uihut.com/?ref=awe50me) `Access high-quality Web Templates, Web Apps, Mobile UI, Webflow Templates, Coded Templates 3D, Graphics, Illustrations, and Icons.`
+- [mobilecn-ui](https://mobilecn.lol/?ref=awe50me) `Beautiful mobile UI components`
