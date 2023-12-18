@@ -70,3 +70,7 @@
 - [see saw](https://www.seesaw.website/) `The best web design inspiration`
 - [UIHUT](https://uihut.com/?ref=awe50me) `Access high-quality Web Templates, Web Apps, Mobile UI, Webflow Templates, Coded Templates 3D, Graphics, Illustrations, and Icons.`
 - [mobilecn-ui](https://mobilecn.lol/?ref=awe50me) `Beautiful mobile UI components`
+- [Microsoft Developer](https://developer.microsoft.com/en-us/) `Any platform. Any language. Our tools.`
+- [degreeless.Design](https://www.degreeless.design/) `A curated resource list to kickstart your design education`
+- [Shortcuts.design](https://shortcuts.design/) `Every shortcut for designers, centralized and searchable.`
+- [learn Mobile Design](https://learnmobile.design/) `A curated list of mobile design resources`
