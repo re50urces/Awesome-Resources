@@ -75,3 +75,4 @@
 - [Shortcuts.design](https://shortcuts.design/) `Every shortcut for designers, centralized and searchable.`
 - [learn Mobile Design](https://learnmobile.design/) `A curated list of mobile design resources`
 - [designsystems.surf](https://designsystems.surf/) `Design Systems Database: Surf among top‑notch Design Systems`
+- [porsche design system](https://designsystem.porsche.com/v3/) `The Porsche Design System provides the design fundamentals and elements for efficiently creating aesthetic and high-quality web applications, including easy-to-use Figma and UX Pin libraries, coded Web Components and comprehensive usage guidelines. Everything is built and tested following the Porsche quality standards and corporate design principles.`
