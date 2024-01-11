@@ -76,3 +76,6 @@
 - [learn Mobile Design](https://learnmobile.design/) `A curated list of mobile design resources`
 - [designsystems.surf](https://designsystems.surf/) `Design Systems Database: Surf among top‑notch Design Systems`
 - [porsche design system](https://designsystem.porsche.com/v3/) `The Porsche Design System provides the design fundamentals and elements for efficiently creating aesthetic and high-quality web applications, including easy-to-use Figma and UX Pin libraries, coded Web Components and comprehensive usage guidelines. Everything is built and tested following the Porsche quality standards and corporate design principles.`
+- [bestofjs](https://bestofjs.org/) `The best of JS, HTML and CSS. A place to find the best open source projects related to the web platform: JS, HTML, CSS, but also TypeScript, Node.js, Deno, Bun...`
+- [Muzli Inspiration](https://muz.li/inspiration/) `The best design inspiration - expertly curated for you.`
+- [bento grids](https://bentogrids.com/) `Bento Grids is a curated collection of tiles-based layouts that were popularized by Apple with their summary slides.`
