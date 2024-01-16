@@ -79,3 +79,7 @@
 - [bestofjs](https://bestofjs.org/) `The best of JS, HTML and CSS. A place to find the best open source projects related to the web platform: JS, HTML, CSS, but also TypeScript, Node.js, Deno, Bun...`
 - [Muzli Inspiration](https://muz.li/inspiration/) `The best design inspiration - expertly curated for you.`
 - [bento grids](https://bentogrids.com/) `Bento Grids is a curated collection of tiles-based layouts that were popularized by Apple with their summary slides.`
+- [thedesignsystem.guide](https://thedesignsystem.guide/) `all the essential resources for setting up the design system. for free. forever.`
+- [Design System Checklist](https://www.designsystemchecklist.com/) `an open-source checklist to help you plan, build and grow your design system.`
+- [Design Systems Repo](https://designsystemsrepo.com/) `a frequently updated collection of design system examples, articles, tools and talks.`
+- [Design System Cookbooks](https://www.designsystemcookbooks.com/) `Find the best design system cookbooks. Comprehensive resources for creating, organizing, and implementing effective digital design recipes`
