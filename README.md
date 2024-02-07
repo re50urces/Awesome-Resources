@@ -83,3 +83,4 @@
 - [Design System Checklist](https://www.designsystemchecklist.com/?ref=awe50me-resources) `an open-source checklist to help you plan, build and grow your design system.`
 - [Design Systems Repo](https://designsystemsrepo.com/?ref=awe50me-resources) `a frequently updated collection of design system examples, articles, tools and talks.`
 - [Design System Cookbooks](https://www.designsystemcookbooks.com/?ref=awe50me-resources) `Find the best design system cookbooks. Comprehensive resources for creating, organizing, and implementing effective digital design recipes`
+- [Awesome lists](https://github.com/sindresorhus/awesome) `Awesome lists about all kinds of interesting topics`
