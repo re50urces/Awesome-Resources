@@ -84,3 +84,5 @@
 - [Design Systems Repo](https://designsystemsrepo.com/?ref=awe50me-resources) `a frequently updated collection of design system examples, articles, tools and talks.`
 - [Design System Cookbooks](https://www.designsystemcookbooks.com/?ref=awe50me-resources) `Find the best design system cookbooks. Comprehensive resources for creating, organizing, and implementing effective digital design recipes`
 - [Awesome lists](https://github.com/sindresorhus/awesome) `Awesome lists about all kinds of interesting topics`
+- [WebCatalog](https://webcatalog.io/en/) `App store for web apps | find the right software and services.`
+- [colorsandfonts](https://www.colorsandfonts.com/) `Color & typography tools for web developers & digital designers`
