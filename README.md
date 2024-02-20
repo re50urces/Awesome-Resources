@@ -87,3 +87,5 @@
 - [WebCatalog](https://webcatalog.io/en/) `App store for web apps | find the right software and services.`
 - [colorsandfonts](https://www.colorsandfonts.com/) `Color & typography tools for web developers & digital designers`
 - [The SwiftUI Field Guide](https://www.swiftuifieldguide.com/) `We built this website to visually explain how the SwiftUI layout system works, and we hope you find it useful.`
+- [uncut](https://uncut.wtf/)
+- [rebrand](https://www.rebrand.gallery/) `Stellar visual identity inspiration gallery`
