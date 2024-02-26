@@ -89,3 +89,4 @@
 - [The SwiftUI Field Guide](https://www.swiftuifieldguide.com/) `We built this website to visually explain how the SwiftUI layout system works, and we hope you find it useful.`
 - [uncut](https://uncut.wtf/)
 - [rebrand](https://www.rebrand.gallery/) `Stellar visual identity inspiration gallery`
+- [Logo System](https://logosystem.co/) `The biggest logo design library`
