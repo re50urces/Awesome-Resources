@@ -90,3 +90,4 @@
 - [uncut](https://uncut.wtf/)
 - [rebrand](https://www.rebrand.gallery/) `Stellar visual identity inspiration gallery`
 - [Logo System](https://logosystem.co/) `The biggest logo design library`
+- [BrandGuidelines](https://www.brandguidelines.net/) `Handpicked curated brand guidelines from around the world`
