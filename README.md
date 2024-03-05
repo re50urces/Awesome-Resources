@@ -51,6 +51,7 @@
 - [JSter](https://jster.net/?ref=awe50me-resources) `JSter is a community-driven catalog of the most useful JavaScript libraries. Find the right tool for a work and do it effectively.`
 - [DevDocs](https://devdocs.io/?ref=awe50me-resources) `DevDocs combines multiple API documentations in a fast, organized, and searchable interface.`
 - [Spectrum, Adobe's design system](https://spectrum.adobe.com/?ref=awe50me-resources) `Spectrum provides components and tools to help product teams work more efficiently, and to make Adobe’s applications more cohesive.`
+    - [Spectrum 2](https://s2.spectrum.adobe.com/)
 - [a-fresh](https://a-fresh.website/?ref=awe50me-resources) `a-fresh | website design inspiration library`
 - [Pafolios](https://pafolios.com/?ref=awe50me-resources) `Best design portfolio examples and case studies for Product, UI/UX, Creative Designers.`
 - [No Code Founders](https://nocodefounders.com/tools) `Build an online business with no code`
@@ -91,3 +92,4 @@
 - [rebrand](https://www.rebrand.gallery/) `Stellar visual identity inspiration gallery`
 - [Logo System](https://logosystem.co/) `The biggest logo design library`
 - [BrandGuidelines](https://www.brandguidelines.net/) `Handpicked curated brand guidelines from around the world`
+- [free design stuff](https://freedesignstuff.com/) `Great digital design resources. All for free.`
