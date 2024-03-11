@@ -93,3 +93,4 @@
 - [Logo System](https://logosystem.co/) `The biggest logo design library`
 - [BrandGuidelines](https://www.brandguidelines.net/) `Handpicked curated brand guidelines from around the world`
 - [free design stuff](https://freedesignstuff.com/) `Great digital design resources. All for free.`
+- [Geist Design System](https://vercel.com/geist/introduction) `Vercel design system for building consistent web experiences.`
